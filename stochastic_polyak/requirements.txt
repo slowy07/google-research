@@ -32,7 +32,7 @@ Markdown==3.3.4
 matplotlib==3.4.3
 ml-collections==0.1.0
 msgpack==1.0.2
-numpy==1.19.5
+numpy==1.22.0
 oauthlib==3.1.1
 opt-einsum==3.3.0
 optax==0.0.9
