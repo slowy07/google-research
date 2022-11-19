@@ -1,4 +1,4 @@
-tensorflow==2.7.0
+tensorflow==2.7.2
 tensorflow-addons==0.15.0
 tensorflow-probability==0.15.0
 tensorflow_text==2.7.0
